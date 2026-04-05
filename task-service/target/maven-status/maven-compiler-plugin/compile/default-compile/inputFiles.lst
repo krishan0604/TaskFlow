@@ -1,0 +1,16 @@
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\config\SecurityConfig.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\controller\TaskController.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\dto\CreateTaskRequest.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\dto\TaskResponse.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\dto\UpdateTaskRequest.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\entity\Task.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\entity\TaskStatus.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\exception\ErrorResponse.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\exception\FieldErrorInfo.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\exception\GlobalExceptionHandler.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\repository\TaskRepository.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\security\CustomUserDetails.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\security\JwtAuthenticationFilter.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\security\JwtService.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\service\TaskService.java
+C:\Users\razzj\OneDrive\Desktop\TaskFlow\task-service\src\main\java\com\taskapp\taskservice\TaskServiceApplication.java

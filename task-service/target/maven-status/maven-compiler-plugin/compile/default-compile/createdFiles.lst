@@ -1,0 +1,17 @@
+com\taskapp\taskservice\dto\TaskResponse.class
+com\taskapp\taskservice\controller\TaskController.class
+com\taskapp\taskservice\entity\TaskStatus.class
+com\taskapp\taskservice\dto\CreateTaskRequest.class
+com\taskapp\taskservice\security\CustomUserDetails.class
+com\taskapp\taskservice\entity\Task$TaskBuilder.class
+com\taskapp\taskservice\exception\FieldErrorInfo.class
+com\taskapp\taskservice\dto\UpdateTaskRequest.class
+com\taskapp\taskservice\TaskServiceApplication.class
+com\taskapp\taskservice\service\TaskService.class
+com\taskapp\taskservice\config\SecurityConfig.class
+com\taskapp\taskservice\exception\GlobalExceptionHandler.class
+com\taskapp\taskservice\repository\TaskRepository.class
+com\taskapp\taskservice\exception\ErrorResponse.class
+com\taskapp\taskservice\security\JwtService.class
+com\taskapp\taskservice\security\JwtAuthenticationFilter.class
+com\taskapp\taskservice\entity\Task.class

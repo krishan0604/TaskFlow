@@ -1,0 +1,3 @@
+com\taskapp\apigateway\filter\AuthenticationFilter$Config.class
+com\taskapp\apigateway\ApiGatewayApplication.class
+com\taskapp\apigateway\filter\AuthenticationFilter.class
